@@ -25,7 +25,7 @@ But I wanted to improve the accuracy on the minority classes. Thus, I implemente
 From this analysis, I can deduce a business tradeoff. Should I miss some problematic situations, but be sure that the valet will be required for a needed action, or Better hire more valet to cover more field request, but responding to twice more problematic situations?
 
 ## Files explanation
-- `ML_Algo_data.ipynb` is the file I used to explore clened data
+- `ML_Algo_data.ipynb` is the file I used to explore cleaned data
 - `ML_Algo_KNN_RF_LDA.ipynb` is the file where I experimented simple ML models
 - `ML_Algo_Gradient_Boosting.ipynb` is dedicated to Gradient Boosting method
 - `ML_Algo_SMOTE.ipynb` is grouping all the different solutions used to deal with imbalanced data
